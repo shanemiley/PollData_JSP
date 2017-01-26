@@ -1,0 +1,10 @@
+{
+    "poll":{
+        "title":"About your preferences",
+        "questions":[
+            "Which color do you like best?",
+            "What is your lucky number?",
+            "Why?"
+        ]
+    }
+}
